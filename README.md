@@ -1,2 +1,22 @@
-# restaurant-restaurant-service
-Restaurant Management Microservice for Restaurant Digital Ordering System. Handles CRUD operations for restaurant entities. Uses Spring Boot, MySQL, MapStruct, Eureka Discovery, Config Server and JWT secured APIs.
+# Restaurant Service
+
+Restaurant Management Microservice.
+
+## Features
+
+- Create Restaurant
+- Update Restaurant
+- Delete Restaurant
+- Get Restaurant
+- List Restaurants
+
+## Tech Stack
+
+- Spring Boot
+- Spring Cloud Config
+- Eureka Discovery
+- OpenFeign
+- MySQL
+- MapStruct
+- Lombok
+- Swagger
